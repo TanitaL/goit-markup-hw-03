@@ -248,10 +248,9 @@ ul {
     display: flex;
 }
 .name-position {
+    align-items: center;
     padding-top: 30px;
     padding-bottom: 30px;
-    padding-left: auto;
-    padding-right: auto;
 }
 .name {
     color: var(--title-and-nav-text-color);
